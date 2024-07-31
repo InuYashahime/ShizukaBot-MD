@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["59175655964", 'Onwer Alba070503', true], //ShizukaBot-MD 💙
+["994408358344", '𝑨𝒀𝑨𝑵𝑶𝑲𝑶𝑱𝑰', true], //ShizukaBot-MD 💙
 ["59169082575"], 
 ["573012482597"],
 ["5492266613038"], 
@@ -56,7 +56,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ IDIOMAS DISPONIBLES : AVAILABLE LANGUAGES ❱❱
 // Español 👉 es           
 // English 👉 en
-global.lenguajeGB = es
+global.lenguajeGB = en
 global.mid = esDefault
 global.version_language = '1.0 (MID-GB)'
 
@@ -126,9 +126,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["59175655964", 'Alba070503 💻', 1], 
-["59169082575", 'Bot 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["994406674437", 'kiritsugu 💻', 1], 
+["994407358344", 'bot 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -136,8 +135,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ SizukaBot-MD 💙\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @Alba070503\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @Alba070503\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @Alba070503\n╰━━━━━━━━•` //"ShizukaBot-MD"
-global.author = ` ╭ ShizukaBot ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Alba070503\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @Alba070503\n ╰━━━━━━━━•` //"Alba070503"
+global.packname = `╭ Ayanokoji Bot-MD 💙\n┃\n┃ » Super Bot WhatsApp\n╰━━━━━━━━•` //"ShizukaBot-MD"
+global.author = ` ╭ Ayanokoji ✓\n ┃\n ⊹ Super Bot WhatsApp\n ╰━━━━━━━━•` //"Alba070503"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -171,9 +170,9 @@ global.eg = '★彡[exito yeii (⁠☆⁠▽⁠☆⁠)]彡★\n\n'
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "ShizukaBot-MD: Alba070503"
-global.igfg = "ShizukaBot-MD"
-global.nomorown = "59169082575"
+global.wm = "Ayanokoji Bot-MD: Shadow"
+global.igfg = "Ayanokoji Bot-MD"
+global.nomorown = "994406674437"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
